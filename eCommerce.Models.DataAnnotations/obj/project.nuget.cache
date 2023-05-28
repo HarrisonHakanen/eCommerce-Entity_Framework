@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "doaepjYE9DWHqfvE7zGMnvRLR1cn/NeRZlVy8r3G5Wi7gXedS5qTKFMAXa8oXgyLaZv01ZghuJAnnfY4qjpDmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harrison\\source\\repos\\eComerce\\eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harrison\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.16\\microsoft.entityframeworkcore.abstractions.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

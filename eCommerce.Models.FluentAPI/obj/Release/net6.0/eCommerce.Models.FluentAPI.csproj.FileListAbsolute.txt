@@ -1,0 +1,12 @@
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\bin\Release\net6.0\eCommerce.Models.FluentAPI.deps.json
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\bin\Release\net6.0\eCommerce.Models.FluentAPI.dll
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\bin\Release\net6.0\eCommerce.Models.FluentAPI.pdb
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\obj\Release\net6.0\eCommerce.Models.FluentAPI.csproj.AssemblyReference.cache
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\obj\Release\net6.0\eCommerce.Models.FluentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\obj\Release\net6.0\eCommerce.Models.FluentAPI.AssemblyInfoInputs.cache
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\obj\Release\net6.0\eCommerce.Models.FluentAPI.AssemblyInfo.cs
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\obj\Release\net6.0\eCommerce.Models.FluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\obj\Release\net6.0\eCommerce.Models.FluentAPI.dll
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\obj\Release\net6.0\refint\eCommerce.Models.FluentAPI.dll
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\obj\Release\net6.0\eCommerce.Models.FluentAPI.pdb
+C:\Users\Harrison\source\repos\eComerce\eCommerce.Models.FluentAPI\obj\Release\net6.0\ref\eCommerce.Models.FluentAPI.dll
